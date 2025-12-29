@@ -32,6 +32,7 @@ export default function About() {
       <p>书的标题：{product.name}</p>
       <p>书的价格：{product.price}</p>
       <img src={product.img} alt=""  width='200px' /> 
+      <h3>11111</h3>
     </div>
   )
 }
